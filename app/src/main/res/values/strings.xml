@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ServiceActivity</string>
+    <string name="channels_name">Channel Name</string>
+    <string name="description_text">Description\n</string>
 </resources>
